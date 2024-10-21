@@ -1,2 +1,4 @@
 # Primer_Repositorio
-Este es mi primer repositorio en el cual estarán disponibles mis prácticas
+Este repositorio es propiedad de: Mildreth Yesenia Alvarado Rosales
+
+En este Repositorio estarán disponibles mis prácticas de la segunda unidad realizadas en PHP.
